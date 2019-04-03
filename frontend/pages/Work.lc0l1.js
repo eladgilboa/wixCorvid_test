@@ -1,3 +1,3 @@
 $w.onReady(() => {
-    console.log('works')
+    console.log('hellow word')
 })
