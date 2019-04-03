@@ -1,0 +1,35 @@
+{"message":"server starting at [.]","level":"info","timestamp":"2019-04-03T11:28:41.637Z"}
+{"message":"watching for file changes at [.]","level":"verbose","timestamp":"2019-04-03T11:28:41.644Z"}
+{"message":"watched path resolved to [C:\\Users\\orcoh\\OneDrive\\Desktop\\wix\\git\\wixCorvid_test\\wixCorvid_test]","level":"debug","timestamp":"2019-04-03T11:28:41.645Z"}
+{"message":"server listening at editor port [5000], admin port [3000]","level":"info","timestamp":"2019-04-03T11:28:41.695Z"}
+{"message":"admin connected","level":"verbose","timestamp":"2019-04-03T11:28:41.725Z"}
+{"message":"editor connected","level":"verbose","timestamp":"2019-04-03T11:28:53.851Z"}
+{"message":"site document requested","level":"verbose","timestamp":"2019-04-03T11:28:54.104Z"}
+{"message":"code files requested","level":"verbose","timestamp":"2019-04-03T11:28:57.820Z"}
+{"message":"updating local site document","level":"verbose","timestamp":"2019-04-03T11:29:00.151Z"}
+{"message":"updating local code files","level":"verbose","timestamp":"2019-04-03T11:29:00.164Z"}
+{"message":"writing folder public","level":"debug","timestamp":"2019-04-03T11:29:00.165Z"}
+{"message":"writing folder backend","level":"debug","timestamp":"2019-04-03T11:29:00.167Z"}
+{"message":"writing folder database","level":"debug","timestamp":"2019-04-03T11:29:00.167Z"}
+{"message":"updating local code files done","level":"verbose","timestamp":"2019-04-03T11:29:00.168Z"}
+{"message":"writing file frontend\\styles\\colors.wix","level":"debug","timestamp":"2019-04-03T11:29:00.174Z"}
+{"message":"writing file frontend\\styles\\fonts.wix","level":"debug","timestamp":"2019-04-03T11:29:00.175Z"}
+{"message":"writing file frontend\\styles\\theme.wix","level":"debug","timestamp":"2019-04-03T11:29:00.175Z"}
+{"message":"writing file frontend\\styles\\topLevelStyles.wix","level":"debug","timestamp":"2019-04-03T11:29:00.176Z"}
+{"message":"writing file frontend\\site\\commonComponents.wix","level":"debug","timestamp":"2019-04-03T11:29:00.176Z"}
+{"message":"writing file frontend\\site\\siteInfo.wix","level":"debug","timestamp":"2019-04-03T11:29:00.176Z"}
+{"message":"writing file frontend\\site\\version.wix","level":"debug","timestamp":"2019-04-03T11:29:00.177Z"}
+{"message":"writing file frontend\\site\\dataFromMasterPage.wix","level":"debug","timestamp":"2019-04-03T11:29:00.177Z"}
+{"message":"writing file frontend\\pages\\Fullscreen_Page.tyit2.wix","level":"debug","timestamp":"2019-04-03T11:29:00.177Z"}
+{"message":"writing file frontend\\pages\\About.xv4tg.wix","level":"debug","timestamp":"2019-04-03T11:29:00.178Z"}
+{"message":"writing file frontend\\pages\\Contact.mb9p5.wix","level":"debug","timestamp":"2019-04-03T11:29:00.178Z"}
+{"message":"writing file frontend\\pages\\Press.keh4p.wix","level":"debug","timestamp":"2019-04-03T11:29:00.179Z"}
+{"message":"writing file frontend\\pages\\Dearan_Lamp.smb03.wix","level":"debug","timestamp":"2019-04-03T11:29:00.179Z"}
+{"message":"writing file frontend\\pages\\Kayo_Trays.nrrr3.wix","level":"debug","timestamp":"2019-04-03T11:29:00.180Z"}
+{"message":"writing file frontend\\pages\\Papier_Shelf.rhi20.wix","level":"debug","timestamp":"2019-04-03T11:29:00.180Z"}
+{"message":"writing file frontend\\pages\\Papier_Table.l5qbp.wix","level":"debug","timestamp":"2019-04-03T11:29:00.181Z"}
+{"message":"writing file frontend\\pages\\Menu_.ohbd1.wix","level":"debug","timestamp":"2019-04-03T11:29:00.181Z"}
+{"message":"writing file frontend\\pages\\Betto_Taper.x2001.wix","level":"debug","timestamp":"2019-04-03T11:29:00.182Z"}
+{"message":"writing file frontend\\pages\\Work.lc0l1.wix","level":"debug","timestamp":"2019-04-03T11:29:00.182Z"}
+{"message":"writing file frontend\\pages\\Invis_Lamps.d7pik.wix","level":"debug","timestamp":"2019-04-03T11:29:00.183Z"}
+{"message":"updating local site document done","level":"verbose","timestamp":"2019-04-03T11:29:00.213Z"}
