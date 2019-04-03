@@ -1,0 +1,9 @@
+{"message":"server starting at [.]","level":"info","timestamp":"2019-04-03T08:54:46.192Z"}
+{"message":"watching for file changes at [.]","level":"verbose","timestamp":"2019-04-03T08:54:46.207Z"}
+{"message":"watched path resolved to [/home/eladg/wixCorvid/testsite/website-4]","level":"debug","timestamp":"2019-04-03T08:54:46.209Z"}
+{"message":"server listening at editor port [5000], admin port [3000]","level":"info","timestamp":"2019-04-03T08:54:46.245Z"}
+{"message":"admin connected","level":"verbose","timestamp":"2019-04-03T08:54:46.263Z"}
+{"message":"editor connected","level":"verbose","timestamp":"2019-04-03T08:54:54.731Z"}
+{"message":"server closing","level":"info","timestamp":"2019-04-03T08:55:45.242Z"}
+{"message":"editor disconnected","level":"verbose","timestamp":"2019-04-03T08:55:45.243Z"}
+{"message":"admin disconnected","level":"verbose","timestamp":"2019-04-03T08:55:45.245Z"}
