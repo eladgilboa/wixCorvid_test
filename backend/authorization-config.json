@@ -50,6 +50,34 @@
                 "remove": true,
                 "read": true
             }
+        },
+        "exemple2": {
+            "anonymous": {
+                "insert": true,
+                "update": true,
+                "remove": true,
+                "read": true
+            },
+            "siteMember": {
+                "insert": true,
+                "update": true,
+                "remove": true,
+                "read": true
+            },
+            "dataOwner": {
+                "update": true,
+                "remove": true,
+                "read": true
+            },
+            "siteOwner": {
+                "insert": true,
+                "update": true,
+                "remove": true,
+                "read": true
+            },
+            "meta": {
+                "customPreset": true
+            }
         }
     },
     "web-methods": {
